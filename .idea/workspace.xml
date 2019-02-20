@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a40e6b2-6550-46d2-a567-11a0f451c422" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Test15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test13Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test14Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test15Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test16Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test17Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,28 +19,31 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Test15.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Test17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Test15Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="281">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Test13Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ext/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Test17Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -99,13 +99,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Test14.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test15Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Test15.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test16Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test17.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test17Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="728" />
+    <option name="x" value="613" />
     <option name="y" value="23" />
-    <option name="width" value="712" />
+    <option name="width" value="819" />
     <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -114,6 +118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,12 +162,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550563291795" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550649172430" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -189,21 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test15Test.findKthToTail">
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test10" />
-      <module name="jianzhioffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test12" />
-      <module name="jianzhioffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Test17Test.merge">
     <configuration name="Test13Test.deleteNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jianzhioffer" />
       <option name="PACKAGE_NAME" value="" />
@@ -234,13 +224,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test16Test.reverseList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jianzhioffer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test16Test" />
+      <option name="METHOD_NAME" value="reverseList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test17Test.merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jianzhioffer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test17Test" />
+      <option name="METHOD_NAME" value="merge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test17Test.merge" />
+        <item itemvalue="JUnit.Test16Test.reverseList" />
         <item itemvalue="JUnit.Test15Test.findKthToTail" />
         <item itemvalue="JUnit.Test14Test.reOrderArray" />
         <item itemvalue="JUnit.Test13Test.deleteNode" />
-        <item itemvalue="Application.Test12" />
-        <item itemvalue="Application.Test10" />
       </list>
     </recent_temporary>
   </component>
@@ -258,27 +268,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test13Test_deleteNode - 2019.02.18 at 22h 46m 19s.xml">
-      <configuration name="Test13Test.deleteNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test13Test_deleteNode - 2019.02.18 at 22h 47m 14s.xml">
-      <configuration name="Test13Test.deleteNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test13Test_deleteNode - 2019.02.18 at 22h 49m 06s.xml">
-      <configuration name="Test13Test.deleteNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test13Test_deleteNode - 2019.02.18 at 22h 49m 41s.xml">
-      <configuration name="Test13Test.deleteNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test13Test_deleteNode - 2019.02.18 at 22h 50m 57s.xml">
-      <configuration name="Test13Test.deleteNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test13Test_deleteNode - 2019.02.18 at 22h 51m 11s.xml">
-      <configuration name="Test13Test.deleteNode" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test13Test_deleteNode - 2019.02.18 at 22h 53m 19s.xml">
-      <configuration name="Test13Test.deleteNode" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Test14Test_reOrderArray - 2019.02.19 at 14h 44m 12s.xml">
       <configuration name="Test14Test.reOrderArray" configurationId="JUnit" />
     </history-entry>
@@ -288,12 +277,33 @@
     <history-entry file="Test14Test_reOrderArray - 2019.02.19 at 15h 14m 30s.xml">
       <configuration name="Test14Test.reOrderArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Test15Test_findKthToTail - 2019.02.19 at 16h 01m 24s.xml">
+      <configuration name="Test15Test.findKthToTail" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test16Test_reverseList - 2019.02.20 at 12h 42m 17s.xml">
+      <configuration name="Test16Test.reverseList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test17Test_merge - 2019.02.20 at 15h 40m 10s.xml">
+      <configuration name="Test17Test.merge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test17Test_merge - 2019.02.20 at 15h 44m 29s.xml">
+      <configuration name="Test17Test.merge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test17Test_merge - 2019.02.20 at 15h 47m 15s.xml">
+      <configuration name="Test17Test.merge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test17Test_merge - 2019.02.20 at 15h 48m 35s.xml">
+      <configuration name="Test17Test.merge" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test17Test_merge - 2019.02.20 at 15h 50m 02s.xml">
+      <configuration name="Test17Test.merge" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="728" y="23" width="712" height="798" extended-state="0" />
+    <frame x="613" y="23" width="819" height="798" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32686567" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32561132" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,7 +313,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -369,6 +379,18 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Test17Test.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Test17.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -461,13 +483,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ext/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -623,31 +638,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test15Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test14Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="129">
           <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test13Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="409">
+          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test15.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test15Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test16Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        <state relative-caret-position="570">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ext/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test17Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
         </state>
       </provider>
     </entry>
