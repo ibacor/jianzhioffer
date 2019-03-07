@@ -13,5 +13,6 @@ public class Test32 {
     }
 
     private int numberOf1(int[] n, int index) {
+        return 0;
     }
 }

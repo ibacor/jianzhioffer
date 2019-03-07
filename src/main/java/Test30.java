@@ -11,6 +11,7 @@ public class Test30 {
      * @return
      */
     public ArrayList<Integer> GetLeastNumbers_Solution(int [] input, int k) {
+        return null;
     }
 
     /**

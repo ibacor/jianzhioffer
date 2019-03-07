@@ -7,6 +7,6 @@ public class Test33 {
      * @return
      */
     public String PrintMinNumber(int [] numbers) {
-
+        return "";
     }
 }
