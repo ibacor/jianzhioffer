@@ -1,7 +1,7 @@
 public class Test12 {
     /**
      * 打印1到n位数的最大值
-     * 即大数问题，使用数组表示
+     * 解法：即大数问题，使用数组表示
      * @param n
      */
     public void print1ToMaxOfNDigits(int n){

@@ -1,6 +1,15 @@
 import ext.TreeNode;
 
 public class Test06 {
+    /**
+     * 输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。
+     * 假设输入的前序遍历和中序遍历的结果中都不含重复的数字。
+     *
+     * 思路：根据前序遍历和中序遍历的数据规律，使用递归重建树
+     * @param pre
+     * @param in
+     * @return
+     */
     // 前序遍历第一个就是根结点，中序遍历对应元素左边为左子树，右边为右子树
     public TreeNode reConstructBinaryTree(int [] pre, int [] in) {
         if(pre == null || in == null || pre.length != in.length || pre.length < 1)

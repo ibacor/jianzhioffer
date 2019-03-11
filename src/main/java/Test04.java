@@ -1,4 +1,9 @@
 public class Test04 {
+    /**
+     * 请实现一个函数，将一个字符串中的每个空格替换成“%20”。
+     * @param str
+     * @return
+     */
     // 从左往右替换，则每个空格都需要把后面代码往后搬移
     // 优化方法是先遍历字符串，预留位置从后往前赋值
     public String replaceSpace(StringBuffer str) {

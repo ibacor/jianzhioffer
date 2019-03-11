@@ -3,6 +3,11 @@ import ext.ListNode;
 import java.util.ArrayList;
 import java.util.Stack;
 
+/**
+ * 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
+ * 解法一：利用栈先进后出的特性
+ * 解法二：利用递归
+ */
 public class Test05 {
     // 反向输出链表值，这里要去不能改变链表结构，即无法链表反转
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {

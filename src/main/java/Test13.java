@@ -3,7 +3,8 @@ import ext.ListNode;
 public class Test13 {
     /**
      * 给定单向链表的头指针和一个结点指针，定义一个函数在0(1)时间删除该结点
-     * 原理为把下一节点覆盖到待删除节点，把待删除节点的next指针指向后两个节点，
+     *
+     * 思路：把下一节点覆盖到待删除节点，把待删除节点的next指针指向后两个节点，
      * 即可实现O(1)级复杂度
      * @param head
      * @param toBeDeleted

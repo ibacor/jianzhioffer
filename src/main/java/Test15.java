@@ -3,6 +3,8 @@ import ext.ListNode;
 public class Test15 {
     /**
      * 输入一个链表，输出该链表中倒数第k个结点。
+     *
+     * 思路：先走k-1步
      * @param head
      * @param k 倒数第k个节点，从1开始
      * @return

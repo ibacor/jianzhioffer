@@ -1,4 +1,11 @@
 public class Test10 {
+    /**
+     * 输入一个整数，输出该数二进制表示中1的个数。其中负数用补码表示。
+     * 解法一：把原数字和1与，再右移
+     * 解法二：把1左移在与运算
+     * @param n
+     * @return
+     */
     public int NumberOf1I(int n) {
         int count = 0;
 //        // int型数值逐个右移查看
