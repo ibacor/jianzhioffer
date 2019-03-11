@@ -1,3 +1,6 @@
+/**
+ * 单例模式的7种实现方式
+ */
 public class Test02 {
     // 懒汉式，线程不安全
    public static class Singleton1 {
