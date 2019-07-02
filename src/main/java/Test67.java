@@ -8,5 +8,6 @@ public class Test67 {
      * @return
      */
     public int movingCount(int threshold, int rows, int cols) {
+        return 0;
     }
 }

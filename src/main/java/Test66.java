@@ -10,6 +10,6 @@ public class Test66 {
      */
     public boolean hasPath(char[] matrix, int rows, int cols, char[] str)
     {
-
+        return false;
     }
 }

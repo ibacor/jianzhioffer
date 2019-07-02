@@ -7,8 +7,7 @@ public class Test65 {
      * @param size
      * @return
      */
-    public ArrayList<Integer> maxInWindows(int [] num, int size)
-    {
-
+    public ArrayList<Integer> maxInWindows(int [] num, int size) {
+        return null;
     }
 }
