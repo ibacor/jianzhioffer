@@ -9,6 +9,20 @@ public class Test59 {
      */
     boolean isSymmetrical(TreeNode pRoot)
     {
+        return isSymmetrical(pRoot, pRoot);
+    }
 
+    /**
+     * 递归比较左右子树
+     */
+    boolean isSymmetrical(TreeNode left, TreeNode right) {
+        if (left == null && right == null) {
+            return true;
+        } else if (left == null || right == null) {
+            return false;
+        } else if (left.val != right.val) {
+            return false;
+        }
+        return isSymmetrical(left.left, right.right) && isSymmetrical(left.right, right.left);
     }
 }

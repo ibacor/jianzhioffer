@@ -8,6 +8,28 @@ public class Test67 {
      * @return
      */
     public int movingCount(int threshold, int rows, int cols) {
-        return 0;
+        // 使用回溯法
+        boolean[][] visited = new boolean[rows][cols];
+        return steps(threshold,0,0,visited);
+    }
+
+    int steps(int limit, int r, int c, boolean[][] visited){
+        if(r<0 || r>=visited.length || c<0 || c>=visited[0].length ||
+                visited[r][c] || bitSum(r)+bitSum(c) > limit)
+            return 0;
+        visited[r][c] = true;
+        return steps(limit,r,c-1,visited)+steps(limit,r-1,c,visited)+
+                steps(limit,r,c+1,visited)+steps(limit,r+1,c,visited)+1;
+    }
+
+    int bitSum(int num){
+        int bit=num%10, sum=bit;
+        num = num/10;
+        while(num != 0){
+            bit = num%10;
+            sum += bit;
+            num /= 10;
+        }
+        return sum;
     }
 }

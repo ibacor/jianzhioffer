@@ -7,7 +7,7 @@ public class TreeLinkNode {
     public int val;
     public TreeLinkNode left;
     public TreeLinkNode right;
-    // 父节点
+    // 下一个节点
     public TreeLinkNode next;
 
     public TreeLinkNode(int val) {
